@@ -1,0 +1,173 @@
+{
+  "brand": {
+    "title": "NEURAL MORPHOSIS",
+    "subtitle": "Gothic rock / darkwave project",
+    "tagline": "Synthetic soul. Heavy heart."
+  },
+  "pages": [
+    {
+      "slug": "releases",
+      "title": "Releases",
+      "href": "./releases.html",
+      "visible": true,
+      "order": 10
+    },
+    {
+      "slug": "video",
+      "title": "Video",
+      "href": "./video.html",
+      "visible": true,
+      "order": 20
+    },
+    {
+      "slug": "about",
+      "title": "About",
+      "href": "./about.html",
+      "visible": false,
+      "order": 30
+    },
+    {
+      "slug": "merch",
+      "title": "Merch",
+      "href": "./merch.html",
+      "visible": false,
+      "order": 40
+    },
+    {
+      "slug": "support",
+      "title": "Support",
+      "href": "./support.html",
+      "visible": false,
+      "order": 50
+    }
+  ],
+  "links": {
+    "youtube": "https://www.youtube.com/@NEURALMORPHOSIS",
+    "instagram": "https://www.instagram.com/neuralmorphosis/",
+    "tiktok": "https://www.tiktok.com/@neuralmorphosis"
+  },
+  "support": {
+    "kofi": "#",
+    "buymeacoffee": "#",
+    "patreon": "#",
+    "paypal": "#"
+  },
+  "pagesContent": {
+    "about": {
+      "title": "About",
+      "body": "NEURAL MORPHOSIS is a dark music project focused on atmospheric gothic rock and related dark sound.\n\nMelancholic, heavy, or minimal — always restrained, slow, and immersive.\n\nSynthetic soul. Heavy heart."
+    },
+    "merch": {
+      "title": "Merch",
+      "body": "Merch page is coming soon.\n\nAdd store links in Admin when ready."
+    },
+    "support": {
+      "title": "Support",
+      "body": "If you want to support the project, choose a platform below.\n\nThank you for keeping the signal alive."
+    }
+  },
+  "featured": {
+    "releaseId": "rel-01",
+    "videoId": "vid-01"
+  },
+  "releases": [
+    {
+      "id": "rel-01",
+      "title": "Release Title 01",
+      "date": "2026-02-02",
+      "cover": "./covers/cover_01.png",
+      "youtube": "#",
+      "spotify": "#",
+      "bandcamp": "#"
+    },
+    {
+      "id": "rel-02",
+      "title": "Release Title 02",
+      "date": "2026-02-07",
+      "cover": "./covers/cover_02.png",
+      "youtube": "#",
+      "spotify": "#",
+      "bandcamp": "#"
+    },
+    {
+      "id": "rel-03",
+      "title": "Release Title 03",
+      "date": "2026-02-14",
+      "cover": "./covers/cover_03.png",
+      "youtube": "#",
+      "spotify": "#",
+      "bandcamp": "#"
+    },
+    {
+      "id": "rel-04",
+      "title": "Release Title 04",
+      "date": "2026-02-21",
+      "cover": "./covers/cover_04.png",
+      "youtube": "#",
+      "spotify": "#",
+      "bandcamp": "#"
+    },
+    {
+      "id": "rel-05",
+      "title": "Release Title 05",
+      "date": "2026-02-28",
+      "cover": "./covers/cover_05.png",
+      "youtube": "#",
+      "spotify": "#",
+      "bandcamp": "#"
+    },
+    {
+      "id": "rel-06",
+      "title": "Release Title 06",
+      "date": "2026-03-07",
+      "cover": "./covers/cover_06.png",
+      "youtube": "#",
+      "spotify": "#",
+      "bandcamp": "#"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-01",
+      "title": "Video Title 01",
+      "date": "2026-02-02",
+      "thumb": "./thumbs/thumb_01.png",
+      "youtube": "#"
+    },
+    {
+      "id": "vid-02",
+      "title": "Video Title 02",
+      "date": "2026-02-07",
+      "thumb": "./thumbs/thumb_02.png",
+      "youtube": "#"
+    },
+    {
+      "id": "vid-03",
+      "title": "Video Title 03",
+      "date": "2026-02-14",
+      "thumb": "./thumbs/thumb_03.png",
+      "youtube": "#"
+    },
+    {
+      "id": "vid-04",
+      "title": "Video Title 04",
+      "date": "2026-02-21",
+      "thumb": "./thumbs/thumb_04.png",
+      "youtube": "#"
+    },
+    {
+      "id": "vid-05",
+      "title": "Video Title 05",
+      "date": "2026-02-28",
+      "thumb": "./thumbs/thumb_05.png",
+      "youtube": "#"
+    },
+    {
+      "id": "vid-06",
+      "title": "Video Title 06",
+      "date": "2026-03-07",
+      "thumb": "./thumbs/thumb_06.png",
+      "youtube": "#"
+    }
+  ]
+}
